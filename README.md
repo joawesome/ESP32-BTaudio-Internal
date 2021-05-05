@@ -9,6 +9,7 @@ This is very first project on GitHub and will not be perfect. I may update this 
 
 Download the code 
 extract to your Documents/Arduino/libraries
+
 (C:/Users/(your username)/Documents/Arduino/libraries) - Windows
 
 more will be added later on.
