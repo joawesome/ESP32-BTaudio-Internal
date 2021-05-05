@@ -12,4 +12,8 @@ extract to your Documents/Arduino/libraries
 
 (C:/Users/(your username)/Documents/Arduino/libraries) - Windows
 
+To see it in action, load up an example (MinimalAudio is recommended)
+
+
+
 more will be added later on.
